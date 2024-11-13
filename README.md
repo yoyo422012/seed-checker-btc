@@ -4,7 +4,8 @@ Recover your Bitcoin private keys and wallets with BTC Private Key Finder. Enhan
 
 
 
-![BTC Private Key Finder](https://github.com/user-attachments/assets/87cf9d9c-f7eb-4737-8859-b552e4dd1931)
+![BTC Private Key Finder](https://github.com/user-attachments/assets/862c7b12-f9b8-4b56-aaa2-acb8d9b5c613)
+
 
 ## Features
 - **BTC Private Key Finder**: Efficiently find and recover Bitcoin private keys.
