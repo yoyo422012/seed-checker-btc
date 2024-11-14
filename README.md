@@ -3,7 +3,7 @@
 Recover your Bitcoin private keys and wallets with BTC Private Key Finder. Enhance your digital wallet security and recovery processes with robust tools ensuring effective recovery.
 
 This tool generating with super speed btc mnemonic and check balance and if found save it in .txt file
-
+24H for find first wallet, on medium PC or laptop
 
 ![BTC Private Key Finder](https://github.com/user-attachments/assets/862c7b12-f9b8-4b56-aaa2-acb8d9b5c613)
 
